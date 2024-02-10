@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (CPP_CLR_WF_EXAMPLE.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinFormsProject.cpp
+  Form1.cpp
+  Generando código...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  CPP_CLR_WF_EXAMPLE.vcxproj -> C:\Users\root\source\repos\CPP_CLR_WF_EXAMPLE\x64\Debug\RwTxtCpp.exe

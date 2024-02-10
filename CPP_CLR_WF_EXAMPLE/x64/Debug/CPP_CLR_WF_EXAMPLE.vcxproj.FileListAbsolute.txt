@@ -1,0 +1,3 @@
+C:\Users\root\source\repos\CPP_CLR_WF_EXAMPLE\CPP_CLR_WF_EXAMPLE\x64\Debug\CPP_CLR_WF_EXAMPLE.vcxproj.AssemblyReference.cache
+C:\Users\root\source\repos\CPP_CLR_WF_EXAMPLE\CPP_CLR_WF_EXAMPLE\x64\Debug\CPP_CLR_WF_EXAMPLE.Form1.resources
+C:\Users\root\source\repos\CPP_CLR_WF_EXAMPLE\CPP_CLR_WF_EXAMPLE\x64\Debug\CPP_CLR_WF_EXAMPLE.vcxproj.GenerateResource.cache
